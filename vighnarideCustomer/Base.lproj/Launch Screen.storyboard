@@ -19,7 +19,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logoApp" translatesAutoresizingMaskIntoConstraints="NO" id="dKe-Xz-T1P">
-                                <rect key="frame" x="76.666666666666686" y="306" width="240" height="240"/>
+                                <rect key="frame" x="78.666666666666671" y="308" width="235.66666666666663" height="236"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="dKe-Xz-T1P" secondAttribute="height" multiplier="1:1" id="G5c-bS-zP7"/>
                                 </constraints>
@@ -29,7 +29,7 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="0VL-tI-5JE" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="2gc-kn-o5a"/>
-                            <constraint firstItem="dKe-Xz-T1P" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" multiplier="0.610687" id="CMD-7o-9MA"/>
+                            <constraint firstItem="dKe-Xz-T1P" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" multiplier="0.6" id="CMD-7o-9MA"/>
                             <constraint firstItem="0VL-tI-5JE" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" id="DcD-ji-4bs"/>
                             <constraint firstItem="dKe-Xz-T1P" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Fy6-aS-qzS"/>
                             <constraint firstItem="0VL-tI-5JE" firstAttribute="trailing" secondItem="Bcu-3y-fUS" secondAttribute="trailing" id="XX5-sN-tvX"/>
